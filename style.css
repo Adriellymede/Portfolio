@@ -23,7 +23,8 @@ article{
     background-image:linear-gradient(to bottom, var(--r),var(--rs), var(--g));
     border-radius: black 2px 2px 2px;
     box-shadow: rgba(0, 0, 0, 0.377) 0.2px 0.2px 1px 1px;
-    max-width: 490px;
+    max-width: 70%;
+    heigth: auto;
     width: 99%;
     text-align: center;
    
